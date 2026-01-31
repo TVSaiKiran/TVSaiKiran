@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Tanguturi Venkata Sai Kiran
 
-<!--
 **TVSaiKiran/Tanguturi Venkata Sai Kiran**
 
 Here are some ideas to get you started:
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 - 🩸 Blood Bank Management System — Donor registry, blood inventory, requests, and matching.
 - 📝 Attendance Management System — Recording and reporting attendance for students or employees.
 -Food Order Website 🍽️🛵 - A simple, fun food ordering website that uses emojis to make menus and order flows more engaging,This project is a lightweight web app for browsing food items, adding them to a cart, and placing orders. It uses emojis in the UI (menu categories, item badges, status indicators) to create a friendly, visual experience.
--->
+
